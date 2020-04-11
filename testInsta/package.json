@@ -1,0 +1,15 @@
+{
+
+    "name": "testcafe",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    "test": "testcafe safari tests/"
+
+    },
+
+    "author": "",
+    "license": "ISC"
+
+  }
